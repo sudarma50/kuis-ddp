@@ -47,15 +47,16 @@ let soal = [
         "a": 3
     },
     {
-        "q": "Tanah yang baik untuk pertanian adalah…",
-        "O": [
-            'Humus',
-            'Pasir',
-            'tanah Liat',
-            'Cadas',
+        "q": "Tanah yang baik untuk pertanian adalah...",
+        "o": [
+            'humas',
+            'pasir',
+            'cadas',
+            'batu',
         ],
         "a": 0
     },
+
     
     
 ];
